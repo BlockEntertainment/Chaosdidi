@@ -1,0 +1,11 @@
+Options +Indexes
+IndexOptions FancyIndexing
+AddIcon /img/icons/image.png bmp gif jpg png
+AddIcon /img/icons/text.png txt php pdf html htm
+AddIcon /img/icons/folder.png ^^DIRECTORY^^
+DefaultIcon /img/icons/unknown.png
+
+# IP-Sperre
+# order allow,deny
+# deny from 5.10.83
+# allow from all
